@@ -1,4 +1,4 @@
-// cs351_assignment2_Ali_Tahami.cpp : Simple Command Line Interpreter.
+// Simple Command Line Interpreter.
 // Copyright (c) Ali Tahami 02/25/2022
 
 #include <iostream>
